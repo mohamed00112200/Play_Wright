@@ -1,68 +1,133 @@
-# 🚀 About Me
+# 🎭 Playwright Automation Testing Framework
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="90" align="right"/>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="120"/>
+</p>
 
-Passionate **Automation Test Engineer** specializing in **TypeScript** and **Playwright** 🎭 with hands-on experience building scalable, maintainable, and efficient end-to-end test automation frameworks.
-
-💡 Skilled in designing robust test architectures using **Page Object Model (POM)**, reusable utilities, fixtures, data-driven testing, and CI/CD integration to ensure high software quality and faster delivery cycles.
-
----
-
-## 🧪 Testing Expertise
-
-✅ Functional Testing  
-✅ UI Testing  
-✅ Regression Testing  
-✅ Smoke Testing  
-✅ Cross-Browser Testing 🌐  
-✅ API Testing 🔌  
-✅ Responsive Testing 📱  
-✅ End-to-End Testing 🔄  
+<p align="center">
+  <b>Professional UI Automation Testing Framework built with TypeScript + Playwright</b><br>
+  Scalable • Maintainable • Fast • Reliable
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 About Project
 
-### ⚡ Automation Tools
-- :contentReference[oaicite:0]{index=0} 🎭  
-- :contentReference[oaicite:1]{index=1} 🕷️  
+This project is a modern Automation Testing Framework using Playwright with TypeScript.
 
-### 💻 Programming Languages
-- :contentReference[oaicite:2]{index=2} 🔷  
-- :contentReference[oaicite:3]{index=3} 🟨  
+Designed using best practices like:
 
-### 📚 Testing Concepts
-- Test Cases  
-- Assertions  
-- Bug Reporting 🐞  
-- Test Strategy  
-- Test Planning  
-
-### ⚙️ Framework Design
-- POM  
-- Fixtures  
-- Hooks  
-- Custom Reports 📊  
-
-### 🚀 DevOps & Tools
-- :contentReference[oaicite:4]{index=4} 🐙  
-- :contentReference[oaicite:5]{index=5} 🔄  
-- :contentReference[oaicite:6]{index=6} 🌳  
+✅ Page Object Model (POM)
+✅ Reusable Components
+✅ Fixtures & Hooks
+✅ Clean Folder Structure
+✅ Parallel Execution
+✅ Cross Browser Testing 🌐
+✅ HTML Reports 📊
+✅ Debugging Tools 🛠️
 
 ---
 
-## 🎯 What I Focus On
+# 🧪 Test Coverage
 
-✔ Writing clean and maintainable automation scripts  
-✔ Reducing manual testing effort through smart automation  
-✔ Improving software reliability and release confidence  
-✔ Detecting bugs early in development lifecycle  
-✔ Delivering professional reports and test insights 📈  
+✔ UI Testing
+✔ Functional Testing
+✔ Regression Testing
+✔ Smoke Testing
+✔ End-to-End Testing
+✔ Responsive Testing 📱
+✔ API Validation 🔌
 
 ---
 
-## 🌟 Career Goal
+# 🛠️ Tech Stack
 
-To grow as a professional **QA Automation Engineer** and contribute to building reliable, scalable, and high-quality software products using modern automation technologies.
+| Tool | Usage |
+|------|------|
+| Playwright | Browser Automation |
+| TypeScript | Programming Language |
+| Node.js | Runtime |
+| GitHub | Version Control |
+| Git | Source Management |
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60"/> <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60"/>
+---
+
+# 📂 Project Structure
+
+tests/
+ ┣ ui/
+ ┃ ┣ pages/
+ ┃ ┣ spec/
+ ┃ ┗ data/
+ ┣ api/
+ ┣ utils/
+ ┗ fixtures/
+
+---
+
+# ▶️ Installation
+
+npm install
+
+---
+
+# ▶️ Run Tests
+
+## Run All Tests
+
+npx playwright test
+
+## Run Specific Test File
+
+npx playwright test tests/ui/spec/TestWithPOM.spec.ts
+
+## Headed Mode
+
+npx playwright test --headed
+
+## Debug Mode
+
+npx playwright test --headed --debug
+
+---
+
+# 📊 Show Report
+
+npx playwright show-report
+
+---
+
+# 🆘 Help
+
+📌 Make sure Node.js is installed
+📌 Run commands inside root project folder
+📌 Use headed mode to watch browser live
+📌 Use debug mode for troubleshooting
+
+---
+
+# 🎯 Why This Framework?
+
+✔ Easy to Maintain
+✔ Clean Architecture
+✔ Reusable Code
+✔ Faster Execution
+✔ Professional Reporting
+✔ Real Industry Standards
+
+---
+
+# 👨‍💻 Author
+
+Mohamed Lotfy
+Junior QA Automation Engineer | Full Stack .NET Developer | AI Enthusiast
+
+📧 mohamedmm6723423@gmail.com
+📍 Egypt
+🔗 GitHub
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
